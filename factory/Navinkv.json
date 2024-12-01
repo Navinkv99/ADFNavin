@@ -1,0 +1,9 @@
+{
+	"name": "Navinkv",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ac0ed6af-e0de-4b79-95e7-ab6b42978b7e",
+		"tenantId": "cd84d20d-c2b2-4262-a393-0854e427f2be"
+	}
+}
