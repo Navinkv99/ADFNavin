@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "Navinkv"
 		},
+		"AzureBlobStorage_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},

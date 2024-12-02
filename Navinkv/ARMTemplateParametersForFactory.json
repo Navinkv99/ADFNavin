@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "Navinkv"
+		},
+		"AzureBlobStorage_connectionString": {
+			"value": ""
 		}
 	}
 }
